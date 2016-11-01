@@ -9,8 +9,6 @@ The **ParallelCliques** toolkit finds all cliques in an undirected graph using a
 
 The algorithm relies on [OpenMPI][2] for its parallel implementation and on the [Boost][3] hashing and string algorithm libraries. These have to be installed for successful compilation.
 
------
-
 ## Download & Setup
 
 The **ParallelCliques** toolkit can be installed by cloning the repository, i.e.
@@ -26,8 +24,6 @@ Then, navigate to the folder where you cloned the repository or extracted the zi
 > `$ make`
 
 to compile the program.
-
------
 
 ## Usage
 
