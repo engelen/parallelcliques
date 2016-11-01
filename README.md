@@ -67,7 +67,10 @@ Network dataset files should be structured as an edge list, where each line of t
 An example edge file would be
 
 > 0	1
+
+
 > 1	2
+
 > 2	0
 
 specifying a graph with three nodes which are all connected by a direct edge.
