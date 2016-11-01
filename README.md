@@ -65,11 +65,11 @@ Optional. Help request threshold to be used in dynamic load balancing. Defaults 
 Network dataset files should be structured as an edge list, where each line of the file corresponds to a single edge, specified by a source node and a target node, separated by a tab. Edges are treated as undirected edges; specifying both directions of an edge is not required.
 
 An example edge file would be
-``
+```
 0 1
 0 2
 2 0
-``
+```
 
 specifying a graph with three nodes which are all connected by a direct edge.
 
